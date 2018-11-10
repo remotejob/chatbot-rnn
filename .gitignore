@@ -1,3 +1,10 @@
 models/reddit-model-1-5-18.zip
 models/reddit
 __pycache__
+data
+models/__MACOSX/
+models/new_save/
+reddit-parse/2015/
+reddit-parse/2016/
+reddit-parse/reddit_data/
+
